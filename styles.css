@@ -1,1 +1,41 @@
 /*  your css code here. If applicable */
+       width: 1100px;
+            margin: 0 auto;
+            font-family: Arial, sans-serif;
+        }
+
+        .imageContainer {
+            margin: 20px 0;
+        }
+        .imageContainer img {
+           height: 300px;
+           width: 500px;
+        }
+
+        table {
+            width: 100%;
+            border-collapse: collapse;
+        }
+
+        table,
+        th,
+        td {
+            border: 1px solid black;
+        }
+
+        th,
+        td {
+            padding: 10px;
+            text-align: center;
+        }
+
+        .column-200 {
+            width: 200px;
+        }
+        .column-200 img{
+            width: 200px;
+        }
+
+        .column-600 {
+            width: 600px;
+        }
